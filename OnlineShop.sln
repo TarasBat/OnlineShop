@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop", "OnlineShop\OnlineShop.csproj", "{A0FD12D2-51AE-4118-BAFF-CE2E5AE948BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop", "OnlineShop\OnlineShop.csproj", "{A74CD529-7F47-4165-A858-EA715878D83D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{AE39A0AE-D5D0-488F-A728-764B60E041E7}"
 EndProject
@@ -13,10 +13,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A0FD12D2-51AE-4118-BAFF-CE2E5AE948BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A0FD12D2-51AE-4118-BAFF-CE2E5AE948BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A0FD12D2-51AE-4118-BAFF-CE2E5AE948BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A0FD12D2-51AE-4118-BAFF-CE2E5AE948BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A74CD529-7F47-4165-A858-EA715878D83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74CD529-7F47-4165-A858-EA715878D83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A74CD529-7F47-4165-A858-EA715878D83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74CD529-7F47-4165-A858-EA715878D83D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AE39A0AE-D5D0-488F-A728-764B60E041E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AE39A0AE-D5D0-488F-A728-764B60E041E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE39A0AE-D5D0-488F-A728-764B60E041E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D784F886-A1CD-40A3-9DD8-E598248885D5}
+		SolutionGuid = {97E961CD-8E1A-4AFE-874D-456F4502AF34}
 	EndGlobalSection
 EndGlobal

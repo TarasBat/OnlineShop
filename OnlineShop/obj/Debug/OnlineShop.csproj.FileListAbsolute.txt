@@ -1,79 +1,3 @@
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\OnlineShop.dll.config
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\OnlineShop.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\OnlineShop.pdb
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\csc.exe
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\csc.exe.config
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\csc.rsp
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\csi.exe
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\csi.exe.config
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\csi.rsp
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.AppContext.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Console.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.IO.Compression.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.IO.Pipes.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Security.AccessControl.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Security.Claims.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Security.Principal.Windows.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.ValueTuple.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XPath.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\vbc.exe
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\vbc.exe.config
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\vbc.rsp
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\Antlr3.Runtime.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\Newtonsoft.Json.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\System.Web.Helpers.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\System.Web.Mvc.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\System.Web.Optimization.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\System.Web.Razor.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\System.Web.WebPages.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\System.Web.WebPages.Razor.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\WebGrease.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\System.Web.Helpers.xml
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\System.Web.Mvc.xml
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\System.Web.Optimization.xml
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\System.Web.Razor.xml
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\System.Web.WebPages.xml
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\System.Web.WebPages.Razor.xml
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\Newtonsoft.Json.xml
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\Antlr3.Runtime.pdb
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csprojAssemblyReference.cache
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
-C:\Users\Tapac\source\repos\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
 D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\OnlineShop.dll.config
 D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\OnlineShop.dll
 D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\OnlineShop.pdb
@@ -124,9 +48,24 @@ D:\Lviv National University\V семестр\Програмування та п�
 D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe
 D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
 D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Antlr3.Runtime.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\EntityFramework.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.dll
 D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.Owin.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Google.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Twitter.dll
 D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.Web.Infrastructure.dll
 D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Newtonsoft.Json.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Owin.dll
 D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\System.Web.Helpers.dll
 D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\System.Web.Mvc.dll
 D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\System.Web.Optimization.dll
@@ -144,6 +83,20 @@ D:\Lviv National University\V семестр\Програмування та п�
 D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\System.Web.WebPages.Razor.xml
 D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Newtonsoft.Json.xml
 D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Antlr3.Runtime.pdb
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\EntityFramework.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\EntityFramework.SqlServer.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.Owin.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Google.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.Owin.Security.OAuth.xml
 D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csprojAssemblyReference.cache
 D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
