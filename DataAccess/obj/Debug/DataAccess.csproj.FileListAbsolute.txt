@@ -225,3 +225,16 @@ D:\Lviv National University\V семестр\Програмування та п�
 D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\obj\Debug\DataAccess.pdb
 D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\obj\Debug\DataAccess.Migrations.DataMigration.resources
 D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Web.Helpers.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Web.Mvc.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Web.Razor.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Web.Helpers.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Web.Mvc.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Web.Razor.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Razor.xml

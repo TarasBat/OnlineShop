@@ -103,3 +103,6 @@ D:\Lviv National University\V семестр\Програмування та п�
 D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
 D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
 D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\DataAccess.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\DataAccess.pdb
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\OnlineShop\bin\DataAccess.dll.config
