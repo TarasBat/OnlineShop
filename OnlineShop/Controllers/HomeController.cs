@@ -3,6 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using Microsoft.AspNet.Identity.Owin;
+using Microsoft.AspNet.Identity;
+using DataAccess.Models;
+using Microsoft.AspNet.Identity.EntityFramework;
+using OnlineShop.Models;
 
 namespace OnlineShop.Controllers
 {
@@ -13,18 +18,33 @@ namespace OnlineShop.Controllers
             return View();
         }
 
+        public ActionResult MyProfile()
+        {
+            ApplicationDbContext context = new ApplicationDbContext();
+            var UserManager = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(context));
+            ApplicationUser currentUser = UserManager.FindById(User.Identity.GetUserId());
+
+            ViewBag.Name = currentUser.Name;
+            ViewBag.Surname = currentUser.Surname;
+            ViewBag.Email = currentUser.Email;
+
+            return View();
+        }
+
+        [Authorize(Roles = "Buyer")]
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Hello buyer.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Online shop contact page.";
 
             return View();
         }
     }
+
 }

@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "ShoppingHistory";
+}
+
+<script src="~/Scripts/DataTables/jquery.dataTables.min.js"></script>
+<link href="~/Content/DataTables/css/jquery.dataTables.min.css" rel="stylesheet" />
+<link href="~/Content/all.css" rel="stylesheet" />
+<script src="~/Scripts/ShoppingHistory.js"></script>
+
+
+
+<div id="GetPurchaseOrdersM" data-request-url="@Url.Action("GetPurchaseOrders", "Buyer")"></div>
+
+
+
+<h2>Shopping History</h2>
+<table id="ShoppingHistoryTable">
+    <thead>
+        <tr>
+            <th></th>
+            <th>Purchase number</th>
+            <th>Date</th>
+            <th>Total price</th>
+        </tr>
+    </thead>
+</table>
+
+
+

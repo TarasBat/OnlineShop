@@ -47,7 +47,7 @@ namespace DataAccess.Repository
         {
             var result = db.Purchases.Where(x => x.PaymentStatus == false && db.PurchaseGoods.Where(y => y.PurchaseID == x.ID).FirstOrDefault().BuyerID == buyerId).FirstOrDefault() ?? new Purchase();
             db.SaveChanges();
-            return result;
+            return result;            
         }
     }
 }

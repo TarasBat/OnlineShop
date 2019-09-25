@@ -1,0 +1,48 @@
+﻿@model OnlineShop.Models.AddGoodsViewModel
+@{
+    ViewBag.Title = "AddGoods";
+}
+
+@section Styles {
+    @Styles.Render("~/bundles/select2/css")
+
+}
+@section Scripts {
+    @Scripts.Render("~/bundles/select2/js")
+}
+<script src="~/Scripts/AddGoods.js"></script>
+
+@using (Html.BeginForm("AddGoods", "Seller", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    <h2>AddGoods</h2>
+    <br />
+    @Html.ValidationSummary("", new { @class = "text-danger" })
+
+
+    <div class="form-group">
+        @Html.LabelFor(x => x.CategoryID, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.DropDownListFor(m => m.CategoryID, Model.CategoriesList, new { @class = "form-control select2-with-placeholder" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Name, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.Price, new { @class = "col-md-2 control-label" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(m => m.Price, new { @class = "form-control" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" class="btn btn-default" value="Add goods" />
+        </div>
+    </div>
+}

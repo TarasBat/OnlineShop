@@ -14,10 +14,10 @@ namespace DataAccess.Repository
         {
             using (var transaction = db.Database.BeginTransaction())
             {
-                // db.Database.ExecuteSqlCommand("SET IDENTITY_INSERT [Online_shop].[dbo].[Goods] ON");
+               // db.Database.ExecuteSqlCommand("SET IDENTITY_INSERT [Online_shop].[dbo].[Goods] ON");
                 db.Merchandise.Add(item);
                 db.SaveChanges();
-                //  db.Database.ExecuteSqlCommand("SET IDENTITY_INSERT [Online_shop].[dbo].[Goods] OFF");
+              //  db.Database.ExecuteSqlCommand("SET IDENTITY_INSERT [Online_shop].[dbo].[Goods] OFF");
                 transaction.Commit();
             }
         }

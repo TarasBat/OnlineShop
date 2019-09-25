@@ -1,240 +1,298 @@
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\DataAccess.dll.config
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\DataAccess.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\DataAccess.pdb
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Win32.Primitives.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\netstandard.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.AppContext.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Collections.Concurrent.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Collections.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Collections.NonGeneric.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Collections.Specialized.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.ComponentModel.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.ComponentModel.EventBasedAsync.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.ComponentModel.Primitives.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.ComponentModel.TypeConverter.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Console.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Data.Common.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Diagnostics.Contracts.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Diagnostics.Debug.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Diagnostics.FileVersionInfo.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Diagnostics.Process.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Diagnostics.StackTrace.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Diagnostics.Tools.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Diagnostics.TraceSource.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Diagnostics.Tracing.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Drawing.Primitives.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Dynamic.Runtime.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Globalization.Calendars.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Globalization.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Globalization.Extensions.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.IO.Compression.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.IO.Compression.ZipFile.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.IO.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.IO.FileSystem.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.IO.FileSystem.DriveInfo.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.IO.FileSystem.Primitives.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.IO.FileSystem.Watcher.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.IO.IsolatedStorage.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.IO.MemoryMappedFiles.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.IO.Pipes.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.IO.UnmanagedMemoryStream.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Linq.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Linq.Expressions.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Linq.Parallel.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Linq.Queryable.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Net.Http.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Net.NameResolution.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Net.NetworkInformation.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Net.Ping.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Net.Primitives.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Net.Requests.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Net.Security.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Net.Sockets.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Net.WebHeaderCollection.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Net.WebSockets.Client.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Net.WebSockets.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.ObjectModel.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Reflection.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Reflection.Extensions.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Reflection.Primitives.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Resources.Reader.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Resources.ResourceManager.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Resources.Writer.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Runtime.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Runtime.Extensions.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Runtime.Handles.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Runtime.InteropServices.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Runtime.Numerics.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Runtime.Serialization.Formatters.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Runtime.Serialization.Json.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Runtime.Serialization.Primitives.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Runtime.Serialization.Xml.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Security.Claims.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Security.Cryptography.Algorithms.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Security.Cryptography.Csp.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Security.Cryptography.Encoding.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Security.Cryptography.Primitives.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Security.Cryptography.X509Certificates.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Security.Principal.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Security.SecureString.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Text.Encoding.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Text.Encoding.Extensions.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Text.RegularExpressions.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Threading.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Threading.Overlapped.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Threading.Tasks.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Threading.Tasks.Parallel.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Threading.Thread.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Threading.ThreadPool.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Threading.Timer.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.ValueTuple.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Xml.ReaderWriter.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Xml.XDocument.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Xml.XmlDocument.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Xml.XmlSerializer.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Xml.XPath.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Xml.XPath.XDocument.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\EntityFramework.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Authentication.Cookies.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Authentication.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Http.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Identity.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.Configuration.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.Identity.Core.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.Identity.Stores.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.Logging.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.ObjectPool.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.Options.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.Primitives.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.WebEncoders.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Net.Http.Headers.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.Cookies.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.OAuth.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Win32.Registry.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Newtonsoft.Json.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Owin.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Remotion.Linq.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Buffers.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Collections.Immutable.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.ComponentModel.Annotations.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Diagnostics.DiagnosticSource.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Interactive.Async.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Memory.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Numerics.Vectors.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Security.AccessControl.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Security.Cryptography.Xml.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Security.Permissions.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Security.Principal.Windows.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Text.Encodings.Web.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\EntityFramework.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Authentication.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Authentication.Cookies.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Http.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Identity.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.Configuration.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.Identity.Core.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.Identity.Stores.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.Logging.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.ObjectPool.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.Options.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.Primitives.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Extensions.WebEncoders.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Net.Http.Headers.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.Cookies.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.OAuth.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Newtonsoft.Json.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Remotion.Linq.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Buffers.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Collections.Immutable.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Diagnostics.DiagnosticSource.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Interactive.Async.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Memory.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Numerics.Vectors.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Text.Encodings.Web.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\obj\Debug\DataAccess.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\obj\Debug\DataAccess.pdb
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\obj\Debug\DataAccess.Migrations.DataMigration.resources
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Web.Helpers.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Web.Mvc.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Web.Razor.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Web.Helpers.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Web.Mvc.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Web.Razor.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Deployment.xml
-D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Razor.xml
+C:\OnlineShop\DataAccess\bin\Debug\DataAccess.dll.config
+C:\OnlineShop\DataAccess\bin\Debug\DataAccess.dll
+C:\OnlineShop\DataAccess\bin\Debug\DataAccess.pdb
+C:\OnlineShop\DataAccess\bin\Debug\EntityFramework.dll
+C:\OnlineShop\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.dll
+C:\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.dll
+C:\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\OnlineShop\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\OnlineShop\DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\OnlineShop\DataAccess\bin\Debug\Owin.dll
+C:\OnlineShop\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\OnlineShop\DataAccess\bin\Debug\System.Web.Helpers.dll
+C:\OnlineShop\DataAccess\bin\Debug\System.Web.Mvc.dll
+C:\OnlineShop\DataAccess\bin\Debug\System.Web.Razor.dll
+C:\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.dll
+C:\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
+C:\OnlineShop\DataAccess\bin\Debug\Unity.Abstractions.dll
+C:\OnlineShop\DataAccess\bin\Debug\Unity.Container.dll
+C:\OnlineShop\DataAccess\bin\Debug\Unity.Mvc5.dll
+C:\OnlineShop\DataAccess\bin\Debug\EntityFramework.xml
+C:\OnlineShop\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.xml
+C:\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.xml
+C:\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\OnlineShop\DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\OnlineShop\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\OnlineShop\DataAccess\bin\Debug\System.Web.Helpers.xml
+C:\OnlineShop\DataAccess\bin\Debug\System.Web.Mvc.xml
+C:\OnlineShop\DataAccess\bin\Debug\System.Web.Razor.xml
+C:\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.xml
+C:\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Razor.xml
+C:\OnlineShop\DataAccess\bin\Debug\Unity.Abstractions.pdb
+C:\OnlineShop\DataAccess\bin\Debug\Unity.Container.pdb
+C:\OnlineShop\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\OnlineShop\DataAccess\obj\Debug\DataAccess.dll
+C:\OnlineShop\DataAccess\obj\Debug\DataAccess.pdb
+C:\OnlineShop\DataAccess\obj\Debug\DataAccess.Migrations.DataMigration.resources
+C:\OnlineShop\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+C:\Projects\OnlineShop\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Projects\OnlineShop\DataAccess\bin\Debug\DataAccess.dll
+C:\Projects\OnlineShop\DataAccess\bin\Debug\DataAccess.pdb
+C:\Projects\OnlineShop\DataAccess\bin\Debug\EntityFramework.dll
+C:\Projects\OnlineShop\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.dll
+C:\Projects\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.dll
+C:\Projects\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\OnlineShop\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Projects\OnlineShop\DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\OnlineShop\DataAccess\bin\Debug\Owin.dll
+C:\Projects\OnlineShop\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\OnlineShop\DataAccess\bin\Debug\System.Web.Helpers.dll
+C:\Projects\OnlineShop\DataAccess\bin\Debug\System.Web.Mvc.dll
+C:\Projects\OnlineShop\DataAccess\bin\Debug\System.Web.Razor.dll
+C:\Projects\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Projects\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.dll
+C:\Projects\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Projects\OnlineShop\DataAccess\bin\Debug\Unity.Abstractions.dll
+C:\Projects\OnlineShop\DataAccess\bin\Debug\Unity.Container.dll
+C:\Projects\OnlineShop\DataAccess\bin\Debug\Unity.Mvc5.dll
+C:\Projects\OnlineShop\DataAccess\bin\Debug\EntityFramework.xml
+C:\Projects\OnlineShop\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.xml
+C:\Projects\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.xml
+C:\Projects\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\OnlineShop\DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\OnlineShop\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projects\OnlineShop\DataAccess\bin\Debug\System.Web.Helpers.xml
+C:\Projects\OnlineShop\DataAccess\bin\Debug\System.Web.Mvc.xml
+C:\Projects\OnlineShop\DataAccess\bin\Debug\System.Web.Razor.xml
+C:\Projects\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.xml
+C:\Projects\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Projects\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Projects\OnlineShop\DataAccess\bin\Debug\Unity.Abstractions.pdb
+C:\Projects\OnlineShop\DataAccess\bin\Debug\Unity.Container.pdb
+C:\Projects\OnlineShop\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Projects\OnlineShop\DataAccess\obj\Debug\DataAccess.dll
+C:\Projects\OnlineShop\DataAccess\obj\Debug\DataAccess.pdb
+C:\Projects\OnlineShop\DataAccess\obj\Debug\DataAccess.Migrations.DataMigration.resources
+C:\Projects\OnlineShop\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\DataAccess.dll.config
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\DataAccess.dll
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\DataAccess.pdb
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\EntityFramework.dll
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.dll
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.dll
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\Owin.dll
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Web.Helpers.dll
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Web.Mvc.dll
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Web.Razor.dll
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.dll
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\Unity.Abstractions.dll
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\Unity.Container.dll
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\Unity.Mvc5.dll
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\EntityFramework.xml
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.xml
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.xml
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\Newtonsoft.Json.xml
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Web.Helpers.xml
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Web.Mvc.xml
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Web.Razor.xml
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.xml
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Razor.xml
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\Unity.Abstractions.pdb
+D:\4.0 new db\OnlineShop\DataAccess\bin\Debug\Unity.Container.pdb
+D:\4.0 new db\OnlineShop\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\4.0 new db\OnlineShop\DataAccess\obj\Debug\DataAccess.Migrations.DataMigration.resources
+D:\4.0 new db\OnlineShop\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+D:\4.0 new db\OnlineShop\DataAccess\obj\Debug\DataAccess.dll
+D:\4.0 new db\OnlineShop\DataAccess\obj\Debug\DataAccess.pdb
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\DataAccess.dll
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\DataAccess.pdb
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\EntityFramework.dll
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.dll
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.dll
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\Owin.dll
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Web.Helpers.dll
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Web.Mvc.dll
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Web.Razor.dll
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.dll
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\Unity.Abstractions.dll
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\Unity.Container.dll
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\Unity.Mvc5.dll
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\EntityFramework.xml
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.xml
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.xml
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Web.Helpers.xml
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Web.Mvc.xml
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Web.Razor.xml
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.xml
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\Unity.Abstractions.pdb
+C:\Projects\4.0 new db\OnlineShop\DataAccess\bin\Debug\Unity.Container.pdb
+C:\Projects\4.0 new db\OnlineShop\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Projects\4.0 new db\OnlineShop\DataAccess\obj\Debug\DataAccess.Migrations.DataMigration.resources
+C:\Projects\4.0 new db\OnlineShop\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.Cache
+C:\Projects\4.0 new db\OnlineShop\DataAccess\obj\Debug\DataAccess.dll
+C:\Projects\4.0 new db\OnlineShop\DataAccess\obj\Debug\DataAccess.pdb
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\DataAccess.dll
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\DataAccess.pdb
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\EntityFramework.dll
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.dll
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.dll
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\Owin.dll
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\System.Web.Helpers.dll
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\System.Web.Mvc.dll
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\System.Web.Razor.dll
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.dll
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\Unity.Abstractions.dll
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\Unity.Container.dll
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\Unity.Mvc5.dll
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\EntityFramework.xml
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.xml
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.xml
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\Newtonsoft.Json.xml
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\System.Web.Helpers.xml
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\System.Web.Mvc.xml
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\System.Web.Razor.xml
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.xml
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\Unity.Abstractions.pdb
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\bin\Debug\Unity.Container.pdb
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\obj\Debug\DataAccess.dll
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\obj\Debug\DataAccess.pdb
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\obj\Debug\DataAccess.Migrations.DataMigration.resources
+D:\Lviv National University\V семестр\OnlineShop\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\DataAccess.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\DataAccess.pdb
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\EntityFramework.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\Owin.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\System.Web.Helpers.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\System.Web.Mvc.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\System.Web.Razor.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\Unity.Abstractions.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\Unity.Container.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\Unity.Mvc5.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\EntityFramework.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\Newtonsoft.Json.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\System.Web.Helpers.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\System.Web.Mvc.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\System.Web.Razor.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\Unity.Abstractions.pdb
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\bin\Debug\Unity.Container.pdb
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\obj\Debug\DataAccess.Migrations.DataMigration.resources
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\obj\Debug\DataAccess.dll
+D:\Lviv National University\V семестр\Програмування та підтримка WEB застосунків\Source\OnlineShop\DataAccess\obj\Debug\DataAccess.pdb

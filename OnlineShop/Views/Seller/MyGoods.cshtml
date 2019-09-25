@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "MyGoods";
+}
+<script src="~/Scripts/typings/MyGoods.js"></script>
+
+<script src="~/Scripts/DataTables/jquery.dataTables.min.js"></script>
+<link href="~/Content/DataTables/css/jquery.dataTables.min.css" rel="stylesheet" />
+
+<h2>MyGoods</h2>
+
+<table id="sellersGoodsTable">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Category</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+</table>
+
+<input type="button" class="btn btn-default" value="Add new goods" onclick="location.href='@Url.Action("AddGoods", "Seller")'" />

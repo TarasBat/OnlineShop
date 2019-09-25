@@ -15,7 +15,7 @@ namespace DataAccess.Models
 
         public DbSet<Category> Categories { get; set; }
 
-        public DbSet<Goods> Merchandise { get; set; }
+        public DbSet<Goods> Merchandise { get; set; } 
 
         public DbSet<PurchaseGoods> PurchaseGoods { get; set; }
 
