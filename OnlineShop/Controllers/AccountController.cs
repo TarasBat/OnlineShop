@@ -186,6 +186,7 @@ namespace OnlineShop.Controllers
                 var result = await UserManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {
+                    UserManager.AddToRole(user.Id, role.Name);
                     MailMessage message = new MailMessage();
                     SmtpClient smtpClient = new SmtpClient();
                     string msg = string.Empty;

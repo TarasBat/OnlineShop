@@ -59,6 +59,7 @@ $(document).ready(function () {
         ],
         drawCallback: function drawCallback() {
             $(".AddToCarts").unbind().click(function (index) {
+                swal("Goods was successfully added to Carts!", "", "success");
                 var row = $(this).closest("tr");
                 var rowIndex = this.parentNode._DT_CellIndex.row;
                 var rowData = GoodsTable.row(rowIndex).data();
